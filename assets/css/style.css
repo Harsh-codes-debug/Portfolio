@@ -59,7 +59,7 @@
    */
 
   --radius-5: 5px;
-  --radius-10: 10px;
+  --radius-10: 10%;
   --radius-15: 15px;
   --radius-20: 20px;
 
@@ -891,8 +891,8 @@ textarea.contact-input {
   .elem-1 .elem-title { color: var(--vivid-sky-blue); }
 
   .elem-2 {
-    bottom: 30px;
-    right: -80px;
+    bottom: -21px;
+    right: -108px;
   }
 
   .elem-2 .elem-title { color: var(--fiery-rose); }
@@ -909,10 +909,10 @@ textarea.contact-input {
     line-height: 1.1;
   }
 
-  .elem-3 {
+  /* .elem-3 {
     top: -40px;
     right: -30px;
-  }
+  } */
 
   .elem-3 ion-icon {
     color: var(--minion-yellow);

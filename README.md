@@ -1,4 +1,9 @@
 <div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/portfolio?style=social)
+  
 
   <br />
   <br />
@@ -7,7 +12,7 @@
 
   Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/Harsh-codes-debug/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -30,18 +35,18 @@ To run **Portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Harsh-codes-debug/Portfolio
+sudo git clone https://github.com/codewithsadee/portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Harsh-codes-debug/Portfolio
+git clone https://github.com/codewithsadee/portfolio.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/pvtt._harshhhh/).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
